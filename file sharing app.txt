@@ -1,0 +1,10 @@
+new folder named as FILE SHARING
+on search bar write  cmd
+on cmd write code .
+in vs code write terminal command 
+wriet command npx create-react-app client for creating react app
+write cd server in going server folder
+now its turn to download some json file as a base file for our node and express
+npm init -y y stands for yes
+npm i express for install express(a library of node js)
+run index file by using node index.js
